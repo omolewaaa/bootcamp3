@@ -1,6 +1,6 @@
 # bootcamp3
 Index file
-    it entails cloning a website using HTML and CSS, it contains the html code and the picture used, the css code is written inside the html, didnt create external file, the website cloned is www.quora.com
+    Entails cloning a website using HTML and CSS, it contains the html code and the picture used, the css code is written inside the html, didnt create external file, the website cloned is www.quora.com
  Lab1 
  It contains javascript code for splosion class and function word with their respective testcases
  
