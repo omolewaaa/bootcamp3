@@ -1,4 +1,4 @@
-const words = require('../word/words.js');
+const words = require('../word/word.js');
 describe("words()", function() {
   it("counts one word", function() {
     var expectedCounts = { word: 1 };
